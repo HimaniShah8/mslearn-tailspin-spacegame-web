@@ -1,5 +1,4 @@
 
-[![Build Status](https://dev.azure.com/paymentevo/Space%20Game-web-pipeline/_apis/build/status/HimaniShah8.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/paymentevo/Space%20Game-web-pipeline/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
